@@ -126,30 +126,6 @@ This project provides:
 - **Financial Literacy Impact**: Users’ education also affects repayment patterns
 
 ---
-
-## Suggested Repository Structure
-
-```
-credit-card-due-date-optimization/
-│
-├── data/
-│   └── synthetic_credit_card_data.csv
-│
-├── notebooks/
-│   └── 01_business_understanding.ipynb
-│   └── 02_data_preparation.ipynb
-│   └── 03_modeling.ipynb
-│
-├── images/
-│   └── charts_and_visualizations.png
-│
-├── README.md
-├── requirements.txt
-└── LICENSE
-```
-
----
-
 ## Project Roadmap
 
 We will proceed step-by-step through a complete data science lifecycle:
